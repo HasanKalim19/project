@@ -1,0 +1,5 @@
+[10-Jun-2021 15:40:04 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function AirportProducts(), 1 passed in /home/a2zairportparkin/public_html/airport/heathrow/discount.php on line 62 and exactly 2 expected in /home/a2zairportparkin/public_html/lib/functions.php:1223
+Stack trace:
+#0 /home/a2zairportparkin/public_html/airport/heathrow/discount.php(62): AirportProducts('7')
+#1 {main}
+  thrown in /home/a2zairportparkin/public_html/lib/functions.php on line 1223
